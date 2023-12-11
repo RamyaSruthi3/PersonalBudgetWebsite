@@ -1,6 +1,6 @@
 ﻿# PersonalBudgetWebsite (Single Page App)
  
-# Project Setup Instructions
+Project Setup Instructions -
 Backend Configuration
 Navigate to the backend folder, Modify the .env file in this folder.
 
