@@ -6,7 +6,7 @@ Navigate to the backend folder, modify the .env file in this folder.
 
 Backend, Frontend Configuration -
 
-Install the necessary dependencies by running:npm install
+Install the necessary dependencies by running: npm install
 
 To start the development server: npm run dev
 
