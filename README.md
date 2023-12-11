@@ -1,4 +1,4 @@
-#Personal Budget Website 
+# Personal Budget Website 
 
 Project Setup Instructions -
 
