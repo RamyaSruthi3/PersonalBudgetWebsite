@@ -19,7 +19,7 @@ Login Page
 ![image](https://github.com/RamyaSruthi3/PersonalBudgetWebsite/assets/143853498/efc1477a-3eb8-48c3-9bd3-e5d4c8bdd490)
 
 Signup Page
-![image](https://github.com/RamyaSruthi3/PersonalBudgetWebsite/assets/143853498/80ec7efd-7c0b-44b4-ab39-70a18eac6820)
+![image](https://github.com/RamyaSruthi3/PersonalBudgetWebsite/assets/143853498/91c8e83b-5cea-4f56-99d9-ad506042cf7f)
 
 DashBoard
 ![image](https://github.com/RamyaSruthi3/PersonalBudgetWebsite/assets/143853498/ae98a476-ff52-4826-9371-4abcf1d4cdda)
